@@ -7,8 +7,13 @@
         "id": "0b5e3a3a670a59d8",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "日记/2021-12-22.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -44,6 +49,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "5b4fe2adbbe15c90",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -65,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "日记/2021-12-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -74,14 +88,56 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "5ea72831854b7588",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "日记/2021-12-22.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d28a3ec5c1d2c45",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c5d2b0e98d0e1a03",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "日记/2021-12-22.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 248.61904907226562
   },
   "active": "0b5e3a3a670a59d8",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "日记/2021-12-22.md",
+    "日记/示例模板/示例1.md",
+    "日记/示例模板/示例2.md",
+    "思考/欲望？.md",
+    "编程/前端/Javascript/Javascript编程.md",
+    "编程/常识/面向对象编程.md",
+    "编程/常识/面向过程编程.md",
+    "2021-12-22.md"
+  ]
 }

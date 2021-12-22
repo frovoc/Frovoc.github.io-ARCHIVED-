@@ -1,4 +1,12 @@
 {
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "attachmentFolderPath": "./",
+  "newFileLocation": "current",
+  "fileSortOrder": "alphabeticalReverse",
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "foldIndent": true,
+  "foldHeading": true,
+  "spellcheck": false
 }
